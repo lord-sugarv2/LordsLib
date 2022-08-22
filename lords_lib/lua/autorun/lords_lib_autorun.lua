@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 LordsLib = LordsLib or {}
 LordsLib.Functions = LordsLib.Functions or {}
 LordsLib.Keys = LordsLib.Keys or {}

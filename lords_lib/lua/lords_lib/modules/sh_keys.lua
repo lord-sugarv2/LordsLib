@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 LordsLib.Keys["OnKeyPressed"] = LordsLib.Keys["OnKeyPressed"] or {}
 LordsLib.Keys["OnKeyReleased"] = LordsLib.Keys["OnKeyReleased"] or {}
 LordsLib.Keys["OnButtonUP"] = LordsLib.Keys["OnButtonUP"] or {}

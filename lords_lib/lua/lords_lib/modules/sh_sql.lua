@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local function sqlDelete(tableName)
     sql.Query("DROP TABLE "..tableName..";")
 end

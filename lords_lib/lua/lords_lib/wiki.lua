@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 -- To start put local LLib = LordsLib:GetFunctions() top of your file
 
 -- When you press key it runs function

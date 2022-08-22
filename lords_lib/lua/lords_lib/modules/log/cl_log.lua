@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 LordsLib.Log = LordsLib.Log or {}
 LordsLib.Log.Tabs = LordsLib.Log.Tabs or {}
 LordsLib.Log.TabData = LordsLib.Log.TabData or {}

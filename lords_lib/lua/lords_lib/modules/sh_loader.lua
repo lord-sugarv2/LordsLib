@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local function AddServer(str)
     if SERVER then
         include(str)

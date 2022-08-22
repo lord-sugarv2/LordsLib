@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local LLib = LordsLib:GetFunctions()
 LLib.CreateSQL("LLibLog", "(addonid TEXT, message TEXT, time TEXT, important BOOL)")
 

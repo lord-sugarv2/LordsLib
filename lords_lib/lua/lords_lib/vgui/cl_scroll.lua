@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local PANEL = {}
 function PANEL:Init()
     self.VBar:SetWide(12)

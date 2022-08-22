@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local fetching = {}
 LordsLib.Imgur = LordsLib.Imgur or {}
 

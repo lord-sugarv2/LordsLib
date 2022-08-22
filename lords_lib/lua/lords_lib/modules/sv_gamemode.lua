@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 LordsLib.Keys["OnStartup"] = LordsLib.Keys["OnStartup"] or {}
 
 local function OnStartup(id, func)

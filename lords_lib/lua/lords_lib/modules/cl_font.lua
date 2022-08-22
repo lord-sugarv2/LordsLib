@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 function LordsLib:CreateFont(name, size)
 	local tbl = {
 		font = "Montserrat Medium",

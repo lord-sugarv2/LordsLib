@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local PANEL = {}
 AccessorFunc(PANEL, "m_Title", "Title")
 AccessorFunc(PANEL, "m_Description", "Description")

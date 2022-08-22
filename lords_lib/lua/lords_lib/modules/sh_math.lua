@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local abcs = "abcdefghijklmnopqrstuvwxyz1234567890"
 local function RandomGen(int)
     local str = ""

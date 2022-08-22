@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 function LordsLib:RemoveID(tbl, id)
     if not tbl or not id then return end
 

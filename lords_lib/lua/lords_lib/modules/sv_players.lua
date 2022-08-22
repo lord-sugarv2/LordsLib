@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 local function KillAllPlayers(silent)
     for k, ply in ipairs(player.GetAll()) do
         if silent then

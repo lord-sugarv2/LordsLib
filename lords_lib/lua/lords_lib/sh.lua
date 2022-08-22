@@ -1,3 +1,4 @@
+-- https://github.com/lord-sugarv2/LordsLib/blob/main/LICENSE
 LordsLib.Colors = {
     Background = Color(30, 30, 30),
     TopPanel = Color(12, 12, 23),
